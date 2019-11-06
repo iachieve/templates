@@ -1,0 +1,69 @@
+#hero{
+  position: relative;
+}
+
+#hero video{
+  height: 100vh;
+  width: 100%;
+  background-position: absolute;
+  z-index: 10;
+  object-fit: cover;
+-webkit-filter: grayscale(80%);
+filter: grayscale(80%);
+font-family: 'object-fit:cover';
+}
+
+#hero .content{
+  background: (0,0,0,0.9);
+  height: 100%;
+  width: 100%;
+  z-index: 20;
+  position: absolute;
+  top: 0;
+  left: 0; 
+  color:gold;
+  
+}
+
+
+.card{
+background-color: rgba(0, 0, 0, 0.5);
+width: 400px;
+  margin: 0 auto;
+  float: none;
+  
+}
+
+.login_btn {
+  color: black;
+  background-color: white;
+  width: 100px;
+  margin-right: 5px;;
+}
+
+.login_btn:hover {
+  color: white;
+  background-color: black;
+}
+
+.sign_up{
+  color: black;
+  background-color: white;
+  width: 100px;
+}
+.sign_up:hover{
+   color: white;
+   background-color: black;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: gold;
+  color: black;
+  border: 0 !important;
+}
+
+.app_title{
+  font-family: Parisienne;
+}
+
