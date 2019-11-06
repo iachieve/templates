@@ -5,4 +5,4 @@
 ](https://github.com/TricomB2B/object-fit-videos)
 - [bootstrap4 css](https://getbootstrap.com/)
 - [parisienne font](https://fonts.google.com/?query=Parisienne)
-- [photos downloaded form](https://unsplash.com/)
+- [photos downloaded form unsplash](https://unsplash.com/)
